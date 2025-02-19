@@ -1,0 +1,12 @@
+@use "normalize.css";
+@use "variables" as *;
+@use "global";
+@use "layout/header";
+@use "layout/footer";
+@use "main/hero";
+
+body {
+  font-family: Bahnschrift, sans-serif;
+  font-size: 14px;
+  background: #f1f1f1;
+}
