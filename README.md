@@ -25,7 +25,6 @@
 │   ├── copy-webpack-plugin -> .pnpm/copy-webpack-plugin@12.0.2_webpack@5.98.0/node_modules/copy-webpack-plugin
 │   ├── css-loader -> .pnpm/css-loader@7.1.2_webpack@5.98.0/node_modules/css-loader
 │   ├── css-minimizer-webpack-plugin -> .pnpm/css-minimizer-webpack-plugin@7.0.0_webpack@5.98.0/node_modules/css-minimizer-webpack-plugin
-│   ├── glob -> .pnpm/glob@11.0.1/node_modules/glob
 │   ├── mini-css-extract-plugin -> .pnpm/mini-css-extract-plugin@2.9.2_webpack@5.98.0/node_modules/mini-css-extract-plugin
 │   ├── normalize.css -> .pnpm/normalize.css@8.0.1/node_modules/normalize.css
 │   ├── sass -> .pnpm/sass@1.85.0/node_modules/sass
